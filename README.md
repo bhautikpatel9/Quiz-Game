@@ -1,7 +1,5 @@
 # Quiz-Game
 
-# Quiz-Game
-
 A dynamic and interactive web-based quiz application designed to test your knowledge across various topics.
 
 ## Features
